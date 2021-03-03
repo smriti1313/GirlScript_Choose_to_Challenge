@@ -25,8 +25,29 @@ You can make changes in 2 ways:
 - If the project is big and complex, then clone it on to your local system and then work.
 - If the project is small, then upload the files directly in your forked repo.
 
-### Step 5:
+### Step 5: What to do in your repo?
+- Make a folder of your name.
+- Add a readme.md file in your folder.
+- Add few details about yourself like:
+    - Name
+    - Github account name
+    - university/college/school
+    - Current year
+    - current sem
+    - etc.
+- Commit these changes.
 
+### Step 6: 
+- Now make a pull request from merging your branch into my master branch.
+- Click `create Pull request`.
+
+### Step 7:
+- Yahoooo you have made your first PR in this repo.
+- Now give time to me so that I can review what you did.
+- Lastly, I would merge all of your changes 
+
+### Step 8:
+Observe what happened.
 
 
 
